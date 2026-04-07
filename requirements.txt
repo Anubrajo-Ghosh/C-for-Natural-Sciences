@@ -1,0 +1,14 @@
+# --- Core Framework & UI ---
+streamlit==1.32.0
+streamlit-extras>=0.4.0
+
+# --- Data Handling & Math ---
+pandas>=2.0.0
+numpy>=1.24.0
+
+# --- Scientific Visualizations ---
+matplotlib>=3.7.0
+plotly>=5.15.0
+
+# --- Image Processing ---
+Pillow>=10.0.0
