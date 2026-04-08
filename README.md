@@ -1,13 +1,14 @@
 # C for Natural Sciences Website
 <div align="center">
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge=flat-square&logo=Streamlit&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge=plastic&logo=python&logoColor=ffdd54)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://c-for-natural-sciences-sbqjhssvaqhxtyxxwgzudd.streamlit.app/)
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=Streamlit&logoColor=white)
+![Science](https://img.shields.io/badge/Natural_Sciences-4B0082?style=plastic)
 
+</div>
 **C for Natural Sciences**
 
 Anubrajo Ghosh | MCBA Semester 2 | St. Xavier's College (Autonomous), Kolkata
