@@ -8,6 +8,7 @@
 ![Science](https://img.shields.io/badge/Natural_Sciences-4B0082?style=plastic)
 
 </div>
+
 **C for Natural Sciences**
 
 Anubrajo Ghosh | MCBA Semester 2 | St. Xavier's College (Autonomous), Kolkata
