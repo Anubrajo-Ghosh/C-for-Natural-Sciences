@@ -60,7 +60,7 @@ The project follows a flat chapter-module architecture where each topic is a sep
 | app.py                    | Main entry point; handles routing, splash screen, and sidebar. |
 | loading_bio.jpg           | Background image for the splash screen.                        |
 | requirements.txt          | Python dependencies required for deployment.                   |
-| **chapters/**             | **Subdirectory containing all study modules**.                 |
+| **chapters**             | **Subdirectory containing all study modules**.                 |
 | home.py                   | Home / landing page.                                           |
 | 1_generations.py          | Module 1: Language Generations.                                |
 | 2_history.py              | Module 2: History of C.                                        |
