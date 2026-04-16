@@ -248,7 +248,7 @@ Streamlit will print a local URL (typically <http://localhost:8501>). Open it in
 
 ### **8.3 requirements.txt**
 
-streamlit>=1.32.0
+`streamlit>=1.32.0`
 
 No additional Python packages are required. All mathematical rendering uses Streamlit's built-in LaTeX support. The C code displayed in the app is static text - it does not compile or execute within the application.
 
